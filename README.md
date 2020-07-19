@@ -18,5 +18,7 @@
 📫 Reach me via 👇🏻:
 
 :rainbow: https://www.instagram.com/jackjagathesh/
+
 :octocat: https://github.com/JagatheshSparkout
+
 https://www.linkedin.com/in/jagatheshr/
