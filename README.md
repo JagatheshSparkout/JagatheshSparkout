@@ -1,16 +1,13 @@
-### Hi there 👋
+🚀 Expertise :
 
-<!--
-**JagatheshSparkout/JagatheshSparkout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- iOS Application Development ( iPhone & iPad )
+- Swift & ObjectiveC
+- Design Patterns ( MVC | MVVM | MVVM-C )
+- In-app purchase
+- Payment gateway integration
+- Agile methodlogy
 
-Here are some ideas to get you started:
+🌱 Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SwiftUI
+- Design patterns ( VIPER | VIP )
