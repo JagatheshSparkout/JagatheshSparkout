@@ -1,3 +1,9 @@
+👋  Hi i'm Jagathesh
+
+Reach me when you need an iOS developer
+
+Mobile App Developer 
+
 🚀 Expertise :
 
 - iOS Application Development ( iPhone & iPad )
@@ -12,13 +18,14 @@
 
 - SwiftUI
 - Design patterns ( VIPER | VIP )
+- SOLID Principle
 - CI/CD
 
 
-📫 Reach me via 👇🏻:
+📫 Reach me via:
 
    :rainbow:  https://www.instagram.com/jackjagathesh/
 
    :octocat:  https://github.com/JagatheshSparkout
 
-    https://www.linkedin.com/in/jagatheshr/
+   https://www.linkedin.com/in/jagatheshr/
