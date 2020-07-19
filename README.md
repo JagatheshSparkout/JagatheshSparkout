@@ -28,4 +28,4 @@ Mobile App Developer 
 
    :octocat:  https://github.com/JagatheshSparkout
 
-   https://www.linkedin.com/in/jagatheshr/
+   🧑‍🤝‍🧑  https://www.linkedin.com/in/jagatheshr/
