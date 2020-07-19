@@ -1,17 +1,22 @@
 🚀 Expertise :
 
-iOS Application Development ( iPhone & iPad )
-Swift & ObjectiveC
-Design Patterns ( MVC | MVVM | MVVM-C )
-Unit Test Case
-In-app purchase
-Payment gateway integration
-Project Management ( Agile methodlogy )
-🌱 Focusing :
+- iOS Application Development ( iPhone & iPad )
+- Swift & ObjectiveC
+- Design Patterns ( MVC | MVVM | MVVM-C )
+- Unit Test Case
+- In-app purchase
+- Payment gateway integration
+- Project Management ( Agile methodlogy )
 
-SwiftUI
-Design patterns ( VIPER | VIP )
+🎯 Focusing :
+
+- SwiftUI
+- Design patterns ( VIPER | VIP )
+- CI/CD
+
+
 📫 Reach me via 👇🏻:
 
-Instagram :rainbow: - https://www.instagram.com/jackjagathesh/
-Github :octocat: - https://github.com/Keerthi-Sparkout
+:rainbow: - https://www.instagram.com/jackjagathesh/
+:octocat: - https://github.com/Keerthi-Sparkout
+https://www.linkedin.com/in/jagatheshr/
