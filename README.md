@@ -1,11 +1,9 @@
-###### 👋  Hi i'm Jagathesh
-
-###### Mobile App Developer 
+#####  👋    Hi i'm Jagathesh, Mobile App Developer 
 
 ✨ Reach me when you need an iOS developer ✨
 
 
-###### 🚀 Expertise :
+##### 🚀  Expertise :
 
 - iOS Application Development ( iPhone & iPad )
 - Swift & ObjectiveC
@@ -15,7 +13,7 @@
 - Payment gateway integration
 - Project Management ( Agile methodlogy )
 
-###### 🎯 Focusing :
+##### 🎯  Focusing :
 
 - SwiftUI
 - Design patterns ( VIPER | VIP )
@@ -23,7 +21,7 @@
 - CI/CD
 
 
-###### 📫 Reach me via:
+##### 📫  Reach me via:
 
    :rainbow:  https://www.instagram.com/jackjagathesh/
 
